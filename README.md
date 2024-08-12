@@ -1,5 +1,5 @@
 ## Olá!!👋 Permita me aprensentar...
-# Muito prazer!! eu me chamo Victor, tenho 18 anos e moro em Macaé/RJ.
+# Muito prazer!! eu me chamo Victor!
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas 2/5;
 - 🌱 Estudando e aprimorando meus conhecimentos Front-end;
