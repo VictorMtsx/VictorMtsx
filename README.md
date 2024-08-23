@@ -10,9 +10,9 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorMtsx&show_icons=true&theme=tokyonight&locale=pt-br" />
 </a>
   </br>
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMtsx&show&layout=compact&theme=tokyonight&locale=pt-br" />
-</a>
+</a> -->
 </div>
 </br>
 <div >
